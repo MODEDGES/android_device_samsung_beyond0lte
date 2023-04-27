@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyond0lte.mk
+    $(LOCAL_DIR)/droidx_beyond0lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyond0lte-eng \
-    lineage_beyond0lte-user \
-    lineage_beyond0lte-userdebug
+    droidx_beyond0lte-eng \
+    droidx_beyond0lte-user \
+    droidx_beyond0lte-userdebug
